@@ -1,2 +1,2 @@
 # simple-counter
-Smple vanilla JS counter plugin
+Simple vanilla JS counter plugin
