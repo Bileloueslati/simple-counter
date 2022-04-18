@@ -1,0 +1,1 @@
+export const FINISH_EVENT = "finish";

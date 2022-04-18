@@ -1,0 +1,1 @@
+export type EventT = "finish";
